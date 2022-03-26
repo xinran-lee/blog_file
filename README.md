@@ -1,2 +1,2 @@
-# blog_pic
-PIC of my blog
+# blog_file
+file of my blog
